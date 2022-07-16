@@ -9,3 +9,7 @@ This software system is very easy to learn and use as it comes built-in librarie
 
 # MATLAB
 MATLAB is a proprietary multi-paradigm programming language and numeric computing environment developed by MathWorks. MATLAB allows matrix manipulations, plotting of functions and data, implementation of algorithms, creation of user interfaces, and interfacing with programs written in other languages.
+
+### Mathematica vs matlab
+
+The only major difference between Mathematica and Matlab is that Mahtematica provides you built-in functions which restricts you. Though you can make your own functions. On the other hand Matlab provides some built-in functions and allows you to make your own functions.
